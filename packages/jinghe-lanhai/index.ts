@@ -1,1 +1,0 @@
-export { default as ScaleScreen } from "./base/scale-screen/scale-screen.vue";
